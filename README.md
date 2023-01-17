@@ -1,2 +1,2 @@
 # Laser-Scanning-and-Photogrammetry
-Laser-Scanning-and-Photogrammetry
+## Prof. Bharat Lohani
